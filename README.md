@@ -4,6 +4,7 @@
 
 ![injoon149's GitHub stats](https://github-readme-stats.vercel.app/api?username=injoon149&show_icons=true&theme=highcontrast)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlswns8579)](https://solved.ac/dlswns8579)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=injoon149&theme=tokyonight)
 
 <!--
 **injoon149/injoon149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
