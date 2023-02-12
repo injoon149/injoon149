@@ -6,7 +6,8 @@
    
    >**Programming** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-   >""Framework"" <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+   >**Framework** <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+   ><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 
 ![injoon149's GitHub stats](https://github-readme-stats.vercel.app/api?username=injoon149&show_icons=true&theme=highcontrast)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlswns8579)](https://solved.ac/dlswns8579)
